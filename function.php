@@ -4,7 +4,7 @@ function createDiv($color,$height,$backgroundcolor){
     //$color = 'color';
     echo "<div style='color:$color; height:$height;background-color:$backgroundcolor'>xyz</div>";
 }
-  createDiv('black','100','red');
+  createDiv('black','100','yellow');
 
 
 
